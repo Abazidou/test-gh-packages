@@ -1,0 +1,14 @@
+{
+  "name": "@abazidou/test-gh-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "@abazidou:registry": "https://npm.pkg.github.com"
+  }
+}
