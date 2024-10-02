@@ -10,5 +10,8 @@
   "license": "ISC",
   "publishConfig": {
     "@abazidou:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@abazidou/test-gh-packages": "1.0.0"
   }
 }
